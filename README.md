@@ -49,8 +49,8 @@ A modern, responsive portfolio website showcasing my skills, projects, and exper
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/tejaswar2004/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/tejaswar2004/Portfolio.git
+cd Portfolio
 ```
 
 ### Step 2: Install Dependencies
@@ -65,7 +65,7 @@ npm install
 npm run dev
 ```
 
-The portfolio will be available at `http://localhost:5173`
+The portfolio will be available at `https://tejaswar2004.github.io/Portfolio/`
 
 ### Step 4: Build for Production
 
@@ -86,7 +86,7 @@ Follow these steps to publish your portfolio and get a shareable URL:
 1. Go to [GitHub](https://github.com)
 2. Click the **"+"** icon in the top right corner
 3. Select **"New repository"**
-4. Name your repository (e.g., `portfolio`, `my-portfolio`, `tejaswar-portfolio`)
+4. Name your repository (e.g., `portfolio`)
 5. Make it **Public** (required for free GitHub Pages)
 6. **DO NOT** initialize with README, .gitignore, or license (since you already have files)
 7. Click **"Create repository"**
@@ -195,7 +195,7 @@ https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/
 
 **Example:**
 ```
-https://tejaswar2004.github.io/portfolio/
+https://tejaswar2004.github.io/Portfolio/
 ```
 
 ---
@@ -209,7 +209,7 @@ Once deployed, you can share your portfolio URL:
 2. Go to your LinkedIn profile
 3. Click "Edit" on your profile
 4. Paste the URL in the "Website" or "Custom" link section
-5. Example: `🌐 Portfolio: https://tejaswar2004.github.io/portfolio/`
+5. Example: `🌐 Portfolio: https://tejaswar2004.github.io/Portfolio/`
 
 ### Portfolio URL Format:
 ```
