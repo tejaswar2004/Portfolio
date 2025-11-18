@@ -1,10 +1,10 @@
 /* src/index.css */
+/* Import Google Fonts - Must be at the top before all other statements */
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&family=Poppins:wght@400;600;700&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-/* Import Google Fonts - Placed after Tailwind directives for better override control if needed */
-@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&family=Poppins:wght@400;600;700&display=swap');
 
 @layer base {
   html {
