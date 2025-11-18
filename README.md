@@ -198,25 +198,6 @@ https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/
 https://tejaswar2004.github.io/Portfolio/
 ```
 
----
-
-## 🔗 Share Your Portfolio
-
-Once deployed, you can share your portfolio URL:
-
-### For LinkedIn Bio:
-1. Copy your GitHub Pages URL
-2. Go to your LinkedIn profile
-3. Click "Edit" on your profile
-4. Paste the URL in the "Website" or "Custom" link section
-5. Example: `🌐 Portfolio: https://tejaswar2004.github.io/Portfolio/`
-
-### Portfolio URL Format:
-```
-https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/
-```
-
----
 
 ## 📁 Project Structure
 
