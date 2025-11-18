@@ -1,7 +1,7 @@
 import React from 'react';
 import SectionTitle from './SectionTitle';
 import { projects } from '../data/portfolioData.jsx';
-import { FaGithub, FaExternalLinkAlt } from 'react-icons/fa';
+import { FaExternalLinkAlt } from 'react-icons/fa';
 import { motion } from 'framer-motion';
 
 const cardVariants = {
@@ -49,17 +49,6 @@ const ProjectCard = ({ project, index }) => {
         </div>
 
         <div className="mt-auto flex justify-between space-x-4 pt-5 border-t border-primary-bg">
-          {project.githubLink && (
-            <a
-              href={project.githubLink}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-text-secondary hover:text-accent-1 transition-colors flex items-center"
-              aria-label={`GitHub repository for ${project.title}`}
-            >
-              <FaGithub size={20} className="mr-1" /> <span className="font-mono text-sm">Code</span>
-            </a>
-          )}
           {project.liveLink && (
             <a
               href={project.liveLink}

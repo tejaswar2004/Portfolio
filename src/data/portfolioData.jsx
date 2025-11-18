@@ -39,27 +39,15 @@ export const projects = [
     tech: ["HTML5", "CSS3", "JavaScript"],
     description: "A modern, feature-rich Tic-Tac-Toe game with split-screen design, score tracking, and target-based match system. Built with vanilla HTML, CSS, and JavaScript. Features glassmorphism UI, real-time score updates, progress bars, and responsive design for all devices.",
     date: "2024",
-    githubLink: "https://github.com/tejaswar2004/TIC_TOC_TOE_Game",
     liveLink: "https://tejaswar2004.github.io/TIC_TOC_TOE_Game/",
     category: "Frontend",
     icon: <SiJavascript size={24} className="text-accent-1"/>
-  },
-  {
-    title: "AgriSure",
-    tech: ["React JS", "Node.js", "Express.js", "MongoDB"],
-    description: "Improved financial access for over 12,000 farmers boosting microloan approvals by 35% via CIBIL-based lending, integrating AI insights, and Hindi support via Google Translation. Engineered the full-stack system, handling frontend UI, backend API and database management.",
-    date: "March 2025 – Present",
-    githubLink: "https://github.com/aditiarya37/AgriSure", // Replace with actual link
-    liveLink: null, // Replace with actual link if available
-    category: "Full Stack",
-    icon: <FaReact size={24} className="text-accent-1"/>
   },
   {
     title: "BuildBridge",
     tech: ["React JS", "Node.js", "Express.js", "MongoDB"],
     description: "Streamlined contracting for construction projects, reducing deal closure time by 40% via an AI-based platform matching builders with clients. Developed both frontend and backend, integrating user authentication, contract storage, and a responsive UI.",
     date: "March 2025 – Present",
-    githubLink: "https://github.com/aditiarya37/BuildBridge", // Replace with actual link
     liveLink: "https://build-bridge-seven.vercel.app/",
     category: "Full Stack",
     icon: <FaReact size={24} className="text-accent-1"/>
@@ -69,7 +57,6 @@ export const projects = [
     tech: ["React JS", "Node.js", "Express.js", "MongoDB"],
     description: "Optimized crop storage for farmers, increasing warehouse occupancy by 25% via an AI-powered marketplace connecting farmers with warehouse owners. Developed a seamless booking system with real-time warehouse availability and farmer-friendly UI.",
     date: "Feb 2025 – Present",
-    githubLink: "https://github.com/aditiarya37/FarmConnect",
     liveLink: "https://farm-connect-iota-psi.vercel.app/",
     category: "Full Stack",
     icon: <FaReact size={24} className="text-accent-1"/>
@@ -79,20 +66,9 @@ export const projects = [
     tech: ["React JS", "Node JS", "Firebase", "API Integration"],
     description: "Enhanced financial literacy and user engagement by 40% through an interactive fintech platform integrating gamification. Developed an engaging React UI with gamified elements ensuring smooth user interactions.",
     date: "Jan 2025 – Present",
-    githubLink: "https://github.com/aditiarya37/WealthWise",
     liveLink: "https://wealthwisefinance.vercel.app/",
     category: "Fintech",
     icon: <SiFirebase size={24} className="text-accent-1"/>
-  },
-  {
-    title: "Blood Shortage Survey and Dashboard",
-    tech: ["React.js", "Node.js", "MongoDB"],
-    description: "Increased efficiency of blood shortage tracking for healthcare organizations by 60% through a real-time analytics dashboard. Built an intuitive React.js dashboard with real-time charts and data visualizations.",
-    date: "Jan 2025 – Present",
-    githubLink: "https://github.com/aditiarya37/BloodLink", // Replace with actual link
-    liveLink: null,
-    category: "Healthcare",
-    icon: <FaDatabase size={24} className="text-accent-1"/>
   },
 ];
 
